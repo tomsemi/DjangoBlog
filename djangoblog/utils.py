@@ -161,7 +161,7 @@ def get_blog_setting():
             setting.sidebar_article_count = 10
             setting.sidebar_comment_count = 5
             setting.show_google_adsense = False
-            setting.open_site_comment = True
+            setting.open_site_comment = False
             setting.analytics_code = ''
             setting.beian_code = ''
             setting.show_gongan_code = False
